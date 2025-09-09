@@ -4,11 +4,11 @@ const nextConfig: NextConfig = {
   /* config options here */
   typedRoutes: true,
   experimental: {
-    cacheComponents: true,
-    staleTimes: {
-      dynamic: 0,
-      static: 0,
-    }
+    // cacheComponents: true,
+    // staleTimes: {
+    //   dynamic: 0,
+    //   static: 0,
+    // }
   },
 };
 
